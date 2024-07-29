@@ -14,7 +14,7 @@ p {
 
 /* Image styling */
 img {
-    max-width: 20%; /* Set your desired maximum width (as a percentage) */
+    max-width: 10%; /* Set your desired maximum width (as a percentage) */
     height: auto; /* Maintain aspect ratio */
     border: 1px solid #ddd; /* Add a light gray border */
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Apply a subtle box shadow */
