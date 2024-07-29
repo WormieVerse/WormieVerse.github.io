@@ -24,7 +24,9 @@ img {
 ul {
     list-style-type: none; /* Remove default bullet points */
     padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
 }
 li {
     margin: 0.5rem 0; /* Add some spacing between list items */
+    list-style-type: none; /* Ensure no bullet points */
 }
