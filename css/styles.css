@@ -28,15 +28,3 @@ ul {
 li {
     margin: 0.5rem 0; /* Add some spacing between list items */
 }
-
-/* Hide potential pseudo-elements */
-body::before, body::after,
-ul::before, ul::after,
-li::before, li::after {
-    content: none; /* Hide any pseudo-elements */
-}
-
-/* Additional rules to hide stray characters */
-body::before, body::after {
-    display: none; /* Ensure no stray characters are displayed */
-}
