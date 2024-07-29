@@ -14,9 +14,10 @@ p {
 
 /* Image styling */
 img {
-    max-width: 2%; /* Set your desired maximum width (as a percentage) */
+    max-width: 20%; /* Adjusted maximum width */
     height: auto; /* Maintain aspect ratio */
     border: 1px solid #ddd; /* Add a light gray border */
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Apply a subtle box shadow */
 }
 /* Add more styles as needed */
+
